@@ -44,3 +44,7 @@ footer {
   height: 320px;
   padding: auto;
 }
+.maps{
+  border: 1px solid rgb(45, 75, 166);
+  height: 300px;
+}
